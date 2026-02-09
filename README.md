@@ -1,0 +1,47 @@
+# Mili – Gone Angels
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.88] Look
+[00:13.51] One by one
+[00:15.04] The pages remind me you'll always be a villain
+[00:20.46] For you, angels have fallen
+[00:23.93] Now they're gone
+[00:25.29] See? Now they're gone
+[00:27.24] Forever gone
+[00:29.03] From the hell that served as my one and only home
+[00:35.70] Though it may hurt today
+[00:37.07] Tomorrow I'll be heading my way
+[00:42.87] I tried, I tried
+[00:47.27] What did we expect?
+[00:50.21] My dearest friend
+[00:52.24] Tell me when we shall make it end
+[00:57.78] So let me take your hand
+[00:59.67] Like one of those madmen
+[01:01.58] Tip tappity tappity tap
+[01:03.49] Dance our last dance
+[01:04.85] Sing
+[01:05.38] Ta talila lulilatu
+[01:07.13] La tulali lalulilu
+[01:08.97] Spinning vinyl opera
+[01:12.62] Longing for this moment
+[01:16.45] Brewing all this hatred
+[01:20.12] So I have a reason
+[01:23.89] Reason to see you dead
+[01:27.51] Don't you worry
+[01:30.35] I saved a spot for you in recycle bin
+[01:34.49] Your neighbouring addresses point to the books you burned
+[01:39.45] Stop now
+[01:40.56] One by one
+[01:42.07] Your desires convince me you've always been a human
+[01:47.65] For you, the shelves have fallen
+[01:51.01] Now they're gone
+[01:52.52] See? Now they're gone
+[01:54.54] Forever gone
+[01:56.25] From the stage that allowed us our one and only dreams
+[02:02.56] What's more to say?
+[02:04.17] Pain always catches up to those who chooses to stay
+[02:09.87] Though it may hurt today
+[02:11.64] Tomorrow I'll be heading my way
+```
