@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Gone Angels",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-09T14:43:49.469668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gone Angels",
+      "artist": "Studio EIM",
+      "has_synced": true,
+      "path": "select/01_Gone_Angels_Studio_EIM.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gone Angels",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_Gone_Angels_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gone Angels",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_Gone_Angels_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gone Angels",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_Gone_Angels_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gone Angels (Eili)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/05_Gone_Angels_(Eili)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gone Angels (Paused)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/06_Gone_Angels_(Paused)_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gone Angels",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Gone_Angels_Mili.txt"
+    }
+  ]
+}
